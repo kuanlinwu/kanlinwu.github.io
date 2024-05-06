@@ -1,0 +1,14 @@
+ody, h1,h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family:'Noto Sans TC', sans-serif;
+}
+.bg-primary {
+    background-color: #0066CC !important;
+}
+.text-primary {
+    color: #0066CC!important;
+}
+a {
+    color: #0066CC;
+    text-decoration: none;
+    background-color: transparent;
+}
